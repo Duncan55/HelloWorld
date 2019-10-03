@@ -1,1 +1,3 @@
 # HelloWorld
+I AM CHRIS!
+LEARNING GITHUB!
